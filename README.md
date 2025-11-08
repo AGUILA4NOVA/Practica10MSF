@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Ibarra Salas Braulio Alejandro [22212387]; L22212387@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Modelo Matematico; EPO; Eritropocitos; Ecuaciones EDO; Regeneracion de globulos rojos.
 
 ## Lista de archivos incluidos en el repositorio
 
