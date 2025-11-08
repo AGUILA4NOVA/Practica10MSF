@@ -37,7 +37,7 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 y con las siguientes condiciones iniciales:
 1. x1(0) = 59;
 2. x2(0) = 44;
-3. x3(0) = 85;
+3. x3(0) = 885;
 
 
 
